@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "12345"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "ca01",
+      "name": "sreecharankumar_a@srmap.edu.in",
+      "email": "rah@gmail.com",
+      "password": "dwfrDWRFC"
+    },
+    {
+      "id": "5",
+      "name": "sree charan",
+      "email": "ravelachandraditya2004@gmail.com",
+      "password": "123456",
+      "createdAt": "2024-11-23T18:29:26.747Z"
+    },
+    {
+      "id": "6",
+      "name": "A.Sree charan kumar",
+      "email": "saicharan_nukala@srmap.edu.in",
+      "password": "bbb",
+      "createdAt": "2024-11-23T18:32:29.971Z"
+    },
+    {
+      "id": "6",
+      "name": "Nukala Saicharan",
+      "email": "nukalasaicharan5@gmail.com",
+      "password": "12345678",
+      "createdAt": "2024-11-24T04:24:21.638Z"
+    },
+    {
+      "id": "7",
+      "name": "nani",
+      "email": "nani@gmail.com",
+      "password": "12345678",
+      "createdAt": "2024-11-24T04:25:02.966Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "4293",
+      "description": "food",
+      "amount": 500,
+      "type": "expense",
+      "ownerId": "1"
+    },
+    {
+      "id": "da65",
+      "description": "grt",
+      "amount": 566,
+      "type": "income",
+      "ownerId": "6"
+    },
+    {
+      "id": "14c7",
+      "description": "rrrrr",
+      "amount": 584,
+      "type": "income",
+      "ownerId": "6"
+    },
+    {
+      "id": "5abc",
+      "description": "iki",
+      "amount": 879,
+      "type": "income",
+      "ownerId": "6"
+    },
+    {
+      "id": "8a34",
+      "description": "ggggg",
+      "amount": 1425,
+      "type": "income",
+      "ownerId": "6"
+    },
+    {
+      "id": "e72d",
+      "description": "AEgwrd",
+      "amount": 143,
+      "type": "income",
+      "ownerId": "1"
+    },
+    {
+      "id": "dc22",
+      "description": "maggie",
+      "amount": 150,
+      "type": "expense",
+      "ownerId": "7"
+    },
+    {
+      "id": "0bc2",
+      "description": "Salary",
+      "amount": 100000,
+      "type": "income",
+      "ownerId": "7"
+    },
+    {
+      "id": "38dd",
+      "description": "House Loan Installment",
+      "amount": 10000,
+      "type": "expense",
+      "ownerId": "7"
+    },
+    {
+      "id": "731b",
+      "description": "food",
+      "amount": 598,
+      "type": "expense",
+      "ownerId": "1"
+    }
+  ],
+  "budgets": {
+    "monthly": 500,
+    "categories": {
+      "Food": 150,
+      "Utilities": 100,
+      "Entertainment": 50
+    }
+  }
+}
